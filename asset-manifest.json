@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/movies/static/css/main.29750fd1.chunk.css",
+    "main.js": "/github.io/movies/static/js/main.05beb609.chunk.js",
+    "main.js.map": "/github.io/movies/static/js/main.05beb609.chunk.js.map",
+    "runtime-main.js": "/github.io/movies/static/js/runtime-main.1eb63d93.js",
+    "runtime-main.js.map": "/github.io/movies/static/js/runtime-main.1eb63d93.js.map",
+    "static/js/2.6426c65b.chunk.js": "/github.io/movies/static/js/2.6426c65b.chunk.js",
+    "static/js/2.6426c65b.chunk.js.map": "/github.io/movies/static/js/2.6426c65b.chunk.js.map",
+    "index.html": "/github.io/movies/index.html",
+    "precache-manifest.ac6fc6751feeafd52ef4ff26afae3be9.js": "/github.io/movies/precache-manifest.ac6fc6751feeafd52ef4ff26afae3be9.js",
+    "service-worker.js": "/github.io/movies/service-worker.js",
+    "static/css/main.29750fd1.chunk.css.map": "/github.io/movies/static/css/main.29750fd1.chunk.css.map",
+    "static/js/2.6426c65b.chunk.js.LICENSE.txt": "/github.io/movies/static/js/2.6426c65b.chunk.js.LICENSE.txt",
+    "static/js/main.05beb609.chunk.js.LICENSE.txt": "/github.io/movies/static/js/main.05beb609.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1eb63d93.js",
+    "static/js/2.6426c65b.chunk.js",
+    "static/css/main.29750fd1.chunk.css",
+    "static/js/main.05beb609.chunk.js"
+  ]
+}
